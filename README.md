@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/236x/07/85/1b/07851bc0f4e732f616fbf771225c4c76.jpg"  />
+<img align="right" height="150" src=""  />
 
 ###
 
