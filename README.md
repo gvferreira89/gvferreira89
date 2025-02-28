@@ -1,7 +1,7 @@
 <h2 align="left">Hi There 👋!</h2>
 
 ### Sobre Mim
-Sou um desenvolvedor apaixonado por tecnologia e inovação. Aqui você encontra meus projetos, conquistas e um pouco da minha jornada. Sinta-se à vontade para explorar e entrar em contato!
+Sou apaixonado por tecnologia e inovação. Aqui você encontra meus projetos, conquistas e um pouco da minha jornada. Sinta-se à vontade para explorar e entrar em contato!
 
 ### Estatísticas do GitHub
 <div align="center">
