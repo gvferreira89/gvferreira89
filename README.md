@@ -9,7 +9,7 @@ Sou apaixonado por tecnologia e inovação. Aqui você encontra meus projetos, c
     <img src="https://github-readme-stats.vercel.app/api?username=gvferreira89&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
   </a>
   <a href="https://github.com/gvferreira89">
-<img src="https://raw.githubusercontent.com/DenverCoder1/github-readme-snake/main/snake.svg?raw=true" alt="Snake Animation" />
+    <img src="https://raw.githubusercontent.com/DenverCoder1/github-readme-snake/main/snake.svg?raw=true" alt="Snake Animation" />
   </a>
 </div>
 
@@ -33,9 +33,4 @@ Sou apaixonado por tecnologia e inovação. Aqui você encontra meus projetos, c
   <a href="https://www.linkedin.com/in/seu-perfil" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-</div>
-
-### Animação Snake
-<div align="center">
-  <img src="https://raw.githubusercontent.com/gvferreira89/gvferreira89/output/snake.svg" alt="Snake animation" />
 </div>
