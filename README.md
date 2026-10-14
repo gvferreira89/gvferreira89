@@ -1,33 +1,50 @@
-<h2 align="left">Hi There 👋!</h2>
+<p align="center">
+  <img src="assets/profile-banner.svg" alt="Gabriel Vicente — Desenvolvimento de software e projetos 3D" width="100%">
+</p>
 
-### Sobre Mim
-Sou apaixonado por tecnologia e inovação. Aqui você encontra meus projetos, conquistas e um pouco da minha jornada. Sinta-se à vontade para explorar e entrar em contato!
+<p align="center">
+  <a href="#projetos-em-destaque">Projetos</a> ·
+  <a href="#tecnologias">Tecnologias</a> ·
+  <a href="#modelagem-e-impressão-3d">Impressão 3D</a>
+</p>
 
-### Estatísticas do GitHub
-<div align="center">
-  <a href="https://github.com/gvferreira89">
-    <img src="https://github-readme-stats.vercel.app/api?username=gvferreira89&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  </a>
-</div>
+## Sobre mim
 
-### Redes Sociais
-<div align="left">
-  <a href="https://www.youtube.com/seu-canal" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35" alt="youtube logo" />
-  </a>
-  <a href="https://www.instagram.com/seu_usuario" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-  <a href="https://www.twitch.tv/seu_canal" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&style=for-the-badge" height="35" alt="twitch logo" />
-  </a>
-  <a href="https://discord.com/users/seu_id" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="discord logo" />
-  </a>
-  <a href="mailto:seuemail@example.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/seu-perfil" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-</div>
+Sou **Gabriel Vicente**. Desenvolvo sistemas web para organizar operações, facilitar o atendimento e reunir informações em interfaces práticas. Também trabalho com adaptações de modelos para impressão 3D, conectando software e projetos físicos.
+
+Meu portfólio reúne aplicações de gestão, painéis de monitoramento e integrações para comunicação.
+
+## Projetos em destaque
+
+| Projeto | Aplicação | Tecnologias |
+| --- | --- | --- |
+| **ERP e CRM de serviços** | Gestão de clientes, contratos, ordens de serviço, agenda, finanças e documentos em uma aplicação modular. | PHP, MySQL, JavaScript |
+| **Plataforma de agendamento** | Reserva de horários por profissional, acompanhamento administrativo e comunicação por WhatsApp. | PHP, MySQL, Bootstrap, Chart.js, Evolution API |
+| **Painel de gestão de CFTV** | Cadastro e consulta de equipamentos, indicadores de disponibilidade e histórico de status. | PHP, MySQL, Bootstrap, Chart.js |
+
+Os repositórios dessas aplicações são privados. Esta apresentação reúne resumos dos projetos; o código-fonte e os dados operacionais têm acesso restrito.
+
+## Tecnologias
+
+**Desenvolvimento web:** PHP · JavaScript · HTML · CSS · Bootstrap  
+**Dados e visualização:** MySQL · Chart.js  
+**Integrações:** WhatsApp com Evolution API  
+**Versionamento:** GitHub  
+**Projetos físicos:** STL · 3MF · Bambu Studio
+
+## Modelagem e impressão 3D
+
+Trabalho com adaptações de peças para necessidades específicas, considerando dimensões, encaixes e preparação para impressão.
+
+- Adaptação de gabinete compacto para placa de computador e SSD.
+- Personalização de placa com logotipo Proxmox para aplicação em superfície.
+- Ajustes de caixas, fechos e componentes de montagem.
+
+Esses trabalhos incluem adaptações de modelos existentes e iterações de projeto.
+
+---
+
+<p align="center">
+  <strong>Software e peças pensados para uso prático.</strong><br>
+  <a href="https://github.com/gvferreira89">github.com/gvferreira89</a>
+</p>
