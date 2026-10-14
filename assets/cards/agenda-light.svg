@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="320" viewBox="0 0 680 320" role="img" aria-labelledby="title desc">
+<title id="title">Agendamento</title><desc id="desc">Horários e disponibilidade por profissional. Comunicação por WhatsApp. Tecnologias: PHP, Evolution API, Bootstrap.</desc>
+<rect x="1" y="1" width="678" height="318" rx="20" fill="#F5F8FC" stroke="#D8E2EC" stroke-width="2"/>
+<path d="M34 48h22" stroke="#087F71" stroke-width="4" stroke-linecap="round"/>
+<text x="67" y="54" fill="#087F71" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="1.4">ATENDIMENTO E INTEGRAÇÕES</text>
+<text x="640" y="54" text-anchor="end" fill="#52667D" font-family="monospace" font-size="19">02</text>
+<text x="34" y="129" fill="#122238" font-family="Arial, Helvetica, sans-serif" font-size="43" font-weight="700" letter-spacing="-1">Agendamento</text>
+<g stroke="#087F71" stroke-width="2" stroke-linejoin="round" fill="none" opacity=".85"><rect x="535" y="80" width="90" height="74" rx="10"/><path d="M535 103h90M555 71v20M605 71v20M554 123l10 10 20-20"/></g>
+<text x="34" y="197" fill="#52667D" font-family="Arial, Helvetica, sans-serif" font-size="22">Horários e disponibilidade por profissional.</text>
+<text x="34" y="229" fill="#52667D" font-family="Arial, Helvetica, sans-serif" font-size="22">Comunicação por WhatsApp.</text>
+<rect x="34" y="264" width="55" height="30" rx="15" fill="#087F71" fill-opacity=".12"/><text x="48" y="284" fill="#087F71" font-family="Arial, Helvetica, sans-serif" font-size="16">PHP</text><rect x="99" y="264" width="145" height="30" rx="15" fill="#087F71" fill-opacity=".12"/><text x="113" y="284" fill="#087F71" font-family="Arial, Helvetica, sans-serif" font-size="16">Evolution API</text><rect x="254" y="264" width="109" height="30" rx="15" fill="#087F71" fill-opacity=".12"/><text x="268" y="284" fill="#087F71" font-family="Arial, Helvetica, sans-serif" font-size="16">Bootstrap</text></svg>

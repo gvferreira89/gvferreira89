@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="320" viewBox="0 0 680 320" role="img" aria-labelledby="title desc">
+<title id="title">Projetos 3D</title><desc id="desc">Gabinetes, placas e peças de montagem. Adaptações para necessidades reais. Tecnologias: STL / 3MF, Bambu Studio.</desc>
+<rect x="1" y="1" width="678" height="318" rx="20" fill="#F5F8FC" stroke="#D8E2EC" stroke-width="2"/>
+<path d="M34 48h22" stroke="#A95D12" stroke-width="4" stroke-linecap="round"/>
+<text x="67" y="54" fill="#A95D12" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="1.4">MODELAGEM E FABRICAÇÃO</text>
+<text x="640" y="54" text-anchor="end" fill="#52667D" font-family="monospace" font-size="19">04</text>
+<text x="34" y="129" fill="#122238" font-family="Arial, Helvetica, sans-serif" font-size="43" font-weight="700" letter-spacing="-1">Projetos 3D</text>
+<g stroke="#A95D12" stroke-width="2" stroke-linejoin="round" fill="none" opacity=".85"><path d="m581 74 45 26v52l-45 26-45-26v-52Z"/><path d="m536 100 45 26 45-26M581 126v52M581 74v52" opacity=".6"/></g>
+<text x="34" y="197" fill="#52667D" font-family="Arial, Helvetica, sans-serif" font-size="22">Gabinetes, placas e peças de montagem.</text>
+<text x="34" y="229" fill="#52667D" font-family="Arial, Helvetica, sans-serif" font-size="22">Adaptações para necessidades reais.</text>
+<rect x="34" y="264" width="109" height="30" rx="15" fill="#A95D12" fill-opacity=".12"/><text x="48" y="284" fill="#A95D12" font-family="Arial, Helvetica, sans-serif" font-size="16">STL / 3MF</text><rect x="153" y="264" width="136" height="30" rx="15" fill="#A95D12" fill-opacity=".12"/><text x="167" y="284" fill="#A95D12" font-family="Arial, Helvetica, sans-serif" font-size="16">Bambu Studio</text></svg>
