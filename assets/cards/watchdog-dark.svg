@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" height="320" viewBox="0 0 680 320" role="img" aria-labelledby="title desc">
+<title id="title">ESP32 Network Watchdog</title><desc id="desc">Monitoramento contínuo de redes e serviços locais com alertas instantâneos no WhatsApp via Evolution API v2. Tecnologias: ESP32, C++, Evolution API, FreeRTOS.</desc>
+<rect x="1" y="1" width="678" height="318" rx="20" fill="#0B1320" stroke="#263950" stroke-width="2"/>
+<path d="M34 48h22" stroke="#00f0ff" stroke-width="4" stroke-linecap="round"/>
+<text x="67" y="54" fill="#00f0ff" font-family="Arial, Helvetica, sans-serif" font-size="16" font-weight="700" letter-spacing="1.4">HARDWARE &amp; AUTOMAÇÃO IoT</text>
+<text x="640" y="54" text-anchor="end" fill="#A7B7CA" font-family="monospace" font-size="19">05</text>
+<text x="34" y="129" fill="#F2F6FC" font-family="Arial, Helvetica, sans-serif" font-size="40" font-weight="700" letter-spacing="-1">Network Watchdog</text>
+<g stroke="#00f0ff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity=".9">
+  <path d="M580 82 l35 15 v35 c0 25 -20 45 -35 52 c-15 -7 -35 -27 -35 -52 v-35 z"/>
+  <path d="M565 125 h10 l6 -14 l8 28 l7 -18 h14"/>
+</g>
+<text x="34" y="197" fill="#A7B7CA" font-family="Arial, Helvetica, sans-serif" font-size="22">Monitoramento contínuo de redes e servidores.</text>
+<text x="34" y="229" fill="#A7B7CA" font-family="Arial, Helvetica, sans-serif" font-size="22">Alertas em tempo real no WhatsApp via Evolution API.</text>
+<rect x="34" y="264" width="75" height="30" rx="15" fill="#00f0ff" fill-opacity=".12"/><text x="48" y="284" fill="#00f0ff" font-family="Arial, Helvetica, sans-serif" font-size="16">ESP32</text>
+<rect x="119" y="264" width="60" height="30" rx="15" fill="#00f0ff" fill-opacity=".12"/><text x="133" y="284" fill="#00f0ff" font-family="Arial, Helvetica, sans-serif" font-size="16">C++</text>
+<rect x="189" y="264" width="135" height="30" rx="15" fill="#00f0ff" fill-opacity=".12"/><text x="203" y="284" fill="#00f0ff" font-family="Arial, Helvetica, sans-serif" font-size="16">Evolution API</text>
+<rect x="334" y="264" width="105" height="30" rx="15" fill="#00f0ff" fill-opacity=".12"/><text x="348" y="284" fill="#00f0ff" font-family="Arial, Helvetica, sans-serif" font-size="16">FreeRTOS</text>
+</svg>
